@@ -4,8 +4,8 @@
   "description": "Ease to use nodejs google analytics client, which uses Measurement Protocol",
   "main": "index.js",
   "dependencies": {
-    "async": "^1.4.2",
-    "lodash": "^3.10.1",
+    "async": "^3.0.0",
+    "lodash": "^4.0.ß",
     "request": "^2.62.0"
   },
   "devDependencies": {
